@@ -8,6 +8,12 @@ export const articlesRoutes = async (app: FastifyInstance) => {
         return { articles }
 
     })
-    app.get('/secondary', async () => { })
+
+    app.get('/secondary', async () => {
+        const articles = dataMainArticles.filter((article) => article.rank > 3).sort()
+
+        return { articles }
+    })
+
     app.get('/:id', async () => { })
 }
