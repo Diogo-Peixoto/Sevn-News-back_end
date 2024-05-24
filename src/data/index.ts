@@ -24,7 +24,6 @@ export const dataMainArticles: IArticle[] = [
         ]
     },
     {
-
         id: uuidv4(),
         title: "Quem não tiver valores a receber nesta etapa poderá ter nas próximas fases, diz BC",
         category: "ECONOMIA",
@@ -42,10 +41,8 @@ export const dataMainArticles: IArticle[] = [
             'A necessidade de reforço também é apontada pelos pais em disciplinas como matemática (71%), língua portuguesa (70%), ciências (62%) e história (60%). Programas de apoio e recuperação nas escolas são vistos como prioridade para 28% dos responsáveis ouvidos pela pesquisa, embora menos da metade dos estudantes em escolas que reabriram estejam recebendo aulas de reforço (43%) ou apoio psicológico (35%).',
             '"Dados assim mostram a dificuldade maior de crianças menores no ensino remoto. Isso se soma a uma dificuldade, no Brasil, de oferta de um ensino remoto realmente interativo nas redes municipais e escolas com menos recursos. Há desafios dos alunos em ter boa conectividade e acesso a equipamentos", observa a gerente de Pesquisa e Desenvolvimento do Itaú Social, Patrícia Mota Guedes.',
         ]
-
     },
     {
-
         id: uuidv4(),
         title: "Lotomania: com prêmio de R$ 5 milhões, veja os números sorteados hoje",
         category: "DIVERSIDADES",
@@ -59,12 +56,9 @@ export const dataMainArticles: IArticle[] = [
             'Basta fazer uma aposta de 50 números nas lotéricas credenciadas pela Caixa, ou no site especial de loterias do banco. Os maiores prêmios são destinados para os bilhetes que acertam 20 e 19 números, ou erram todos as dezenas sorteadas. As apostas devem ser feitas até uma hora antes do sorteio, que normalmente ocorre às 20h (horário de Brasília).',
             'Na Lotomania, diferentemente de outras modalidades da Caixa, só existe uma possibilidade da aposta, com 50 números. O preço único é de R$ 3.',
             'A chance de levar o principal prêmio, que precisa de 20 acertos, é uma em 11.372.635. Na faixa dos 19 números, a chance é uma em 352.551. Ficar sem acertar nada é tão provável quanto acertar as 20 dezenas: uma chance em 11.372.635.',
-
         ]
-
     },
     {
-
         id: uuidv4(),
         title: "Datafolha: Após ensino remoto, 76% precisam de reforço na alfabetização",
         category: "EDUCAÇÃO",
@@ -82,12 +76,9 @@ export const dataMainArticles: IArticle[] = [
             'Banco Central libera consulta de dinheiro ‘esquecido’ em bancos: saiba como fazer',
             'Em 2 de maio, as consultas a uma nova fase serão abertas. O BC não informou, no entanto, se todos os R$ 4 bilhões restantes serão liberados para consultas nesta segunda fase. Em janeiro, no entanto, o BC afirmou que todos os recursos seriam liberados "ao longo de 2022".',
             'Página do BC informa que cidadão sem valores a receber atualmente poderá fazer nova consulta a partir de maio.',
-
         ]
-
     },
     {
-
         id: uuidv4(),
         title: "Datafolha: Após ensino remoto, 76% precisam de reforço na alfabetização",
         category: "EDUCAÇÃO",
@@ -105,12 +96,9 @@ export const dataMainArticles: IArticle[] = [
             'Banco Central libera consulta de dinheiro ‘esquecido’ em bancos: saiba como fazer',
             'Em 2 de maio, as consultas a uma nova fase serão abertas. O BC não informou, no entanto, se todos os R$ 4 bilhões restantes serão liberados para consultas nesta segunda fase. Em janeiro, no entanto, o BC afirmou que todos os recursos seriam liberados "ao longo de 2022".',
             'Página do BC informa que cidadão sem valores a receber atualmente poderá fazer nova consulta a partir de maio.',
-
         ]
-
     },
     {
-
         id: uuidv4(),
         title: "Datafolha: Após ensino remoto, 76% precisam de reforço na alfabetização",
         category: "EDUCAÇÃO",
@@ -128,12 +116,9 @@ export const dataMainArticles: IArticle[] = [
             'Banco Central libera consulta de dinheiro ‘esquecido’ em bancos: saiba como fazer',
             'Em 2 de maio, as consultas a uma nova fase serão abertas. O BC não informou, no entanto, se todos os R$ 4 bilhões restantes serão liberados para consultas nesta segunda fase. Em janeiro, no entanto, o BC afirmou que todos os recursos seriam liberados "ao longo de 2022".',
             'Página do BC informa que cidadão sem valores a receber atualmente poderá fazer nova consulta a partir de maio.',
-
         ]
-
     },
     {
-
         id: uuidv4(),
         title: "Datafolha: Após ensino remoto, 76% precisam de reforço na alfabetização",
         category: "EDUCAÇÃO",
@@ -151,12 +136,9 @@ export const dataMainArticles: IArticle[] = [
             'Banco Central libera consulta de dinheiro ‘esquecido’ em bancos: saiba como fazer',
             'Em 2 de maio, as consultas a uma nova fase serão abertas. O BC não informou, no entanto, se todos os R$ 4 bilhões restantes serão liberados para consultas nesta segunda fase. Em janeiro, no entanto, o BC afirmou que todos os recursos seriam liberados "ao longo de 2022".',
             'Página do BC informa que cidadão sem valores a receber atualmente poderá fazer nova consulta a partir de maio.',
-
         ]
-
     },
     {
-
         id: uuidv4(),
         title: "Quem não tiver valores a receber nesta etapa poderá ter nas próximas fases, diz BC",
         category: "ECONOMIA",
@@ -174,10 +156,8 @@ export const dataMainArticles: IArticle[] = [
             'A necessidade de reforço também é apontada pelos pais em disciplinas como matemática (71%), língua portuguesa (70%), ciências (62%) e história (60%). Programas de apoio e recuperação nas escolas são vistos como prioridade para 28% dos responsáveis ouvidos pela pesquisa, embora menos da metade dos estudantes em escolas que reabriram estejam recebendo aulas de reforço (43%) ou apoio psicológico (35%).',
             '"Dados assim mostram a dificuldade maior de crianças menores no ensino remoto. Isso se soma a uma dificuldade, no Brasil, de oferta de um ensino remoto realmente interativo nas redes municipais e escolas com menos recursos. Há desafios dos alunos em ter boa conectividade e acesso a equipamentos", observa a gerente de Pesquisa e Desenvolvimento do Itaú Social, Patrícia Mota Guedes.',
         ]
-
     },
     {
-
         id: uuidv4(),
         title: "Quem não tiver valores a receber nesta etapa poderá ter nas próximas fases, diz BC",
         category: "ECONOMIA",
@@ -195,10 +175,8 @@ export const dataMainArticles: IArticle[] = [
             'A necessidade de reforço também é apontada pelos pais em disciplinas como matemática (71%), língua portuguesa (70%), ciências (62%) e história (60%). Programas de apoio e recuperação nas escolas são vistos como prioridade para 28% dos responsáveis ouvidos pela pesquisa, embora menos da metade dos estudantes em escolas que reabriram estejam recebendo aulas de reforço (43%) ou apoio psicológico (35%).',
             '"Dados assim mostram a dificuldade maior de crianças menores no ensino remoto. Isso se soma a uma dificuldade, no Brasil, de oferta de um ensino remoto realmente interativo nas redes municipais e escolas com menos recursos. Há desafios dos alunos em ter boa conectividade e acesso a equipamentos", observa a gerente de Pesquisa e Desenvolvimento do Itaú Social, Patrícia Mota Guedes.',
         ]
-
     },
     {
-
         id: uuidv4(),
         title: "Lotomania: com prêmio de R$ 5 milhões, veja os números sorteados hoje",
         category: "DIVERSIDADES",
@@ -214,7 +192,6 @@ export const dataMainArticles: IArticle[] = [
             'A chance de levar o principal prêmio, que precisa de 20 acertos, é uma em 11.372.635. Na faixa dos 19 números, a chance é uma em 352.551. Ficar sem acertar nada é tão provável quanto acertar as 20 dezenas: uma chance em 11.372.635.',
 
         ]
-
     },
     {
 
