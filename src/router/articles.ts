@@ -22,6 +22,10 @@ export const articlesRoutes = async (app: FastifyInstance) => {
 
         const article = dataMainArticles.filter((article) => article.id === id)
 
-        return article
+        if (!article[0]) {
+            return res.status(404).send({ error: "id not found", message: "The indicated ID is not in the database!" })
+        }
+
+        return article[0]
     })
 }
